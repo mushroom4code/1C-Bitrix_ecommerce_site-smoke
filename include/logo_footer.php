@@ -1,0 +1,1 @@
+<img src="/local/assets/images/logo-white.svg" alt="<<Заменено для анонимности>>">

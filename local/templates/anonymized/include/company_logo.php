@@ -1,0 +1,1 @@
+<img src="<?=SITE_DIR?>/images/logo_shop.png"  srcset="<?=SITE_DIR?>/images/logo_shop.png" />

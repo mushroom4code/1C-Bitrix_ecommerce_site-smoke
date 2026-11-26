@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/local/templates/<<Заменено для анонимности>>/components/bitrix/catalog.comments/<<Заменено для анонимности>>_catalog.commets/ajax.php"); ?>
